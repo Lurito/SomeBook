@@ -1,8 +1,8 @@
 # 《世界历史地图集》说明文档
 
-[Lurito](https://github.com/Lurito)
+Other languages: [English](RM-EN.md)
 
-[English](RM-EN.md)
+其他語言：[繁體中文](RM-CHT.md)
 
 ### 写在最前面
 ---

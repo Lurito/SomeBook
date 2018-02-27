@@ -1,5 +1,9 @@
 # Document of the _WORLD HISTORICAL ATLAS_
 
+其他语言：[简体中文](RM-CHS.md)
+
+其他語言：[繁體中文](RM-CHT.md)
+
 ### A precursory statement
 ---
 * The atlas is originally manufactured by a Japanese man [x768](http://x768.com/w/twha.ja). X768 published the atlas on his/her personal website without providing any licence. Any use, except in the cases of those which are provided in the Terms of Fair Use in the copyright law of your region, such as the Article 22 of the _COPYRIGHT LAW OF THE PEOPLE'S REPUBLIC OF CHINA_, may constitute a violation of the copyright of the original author.
