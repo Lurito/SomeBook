@@ -1,6 +1,6 @@
 # 《世界历史地图集》说明文档
 
-Other languages: [English](RM-EN.md)
+Other languages: [English](RM-EN.html)
 
 其他语言：[简体中文](RM-CHS.md)
 
