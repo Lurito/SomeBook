@@ -1,4 +1,4 @@
-# 《世界历史地图集》说明文档
+# 《世界歷史地圖集》說明文檔
 
 Other languages: [English](RM-EN.md)
 
