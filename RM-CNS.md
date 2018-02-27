@@ -2,7 +2,7 @@
 
 [Lurito](https://github.com/Lurito)
 
-[English](RM-EN)
+[English](RM-EN.md)
 
 ### 写在最前面
 ---
