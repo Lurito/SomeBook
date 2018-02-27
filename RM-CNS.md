@@ -13,4 +13,4 @@ Other languages: [English](RM-EN.md)
 ### 法律声明
 ---
 * 该地图集最初由日本人[x768](http://x768.com/w/twha.ja)制作。X768在他/她的个人网站上发布了图集，但没有提供任何许可证。除了在您所在地区版权法中的合理使用条款（如《中华人民共和著作权法》第22条）中规定的情形外，任何使用行为均可能构成对原作者著作权的侵犯。
-* [此版本的地图集](http://worldmap.lurito.com)经过 [Lurito](https://github.com/Lurito) 对部分内容进行翻译和本土化的处理，且仅用于学校课堂教学或者科学研究。
+* [此版本的地图集](http://worldmap.lurito.com)经过 [Lurito](https://github.com/Lurito) 对部分内容进行翻译和本土化的处理，且仅供学校课堂教学或者科学研究使用。

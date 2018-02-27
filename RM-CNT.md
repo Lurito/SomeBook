@@ -12,4 +12,4 @@ Other languages: [English](RM-EN.md)
 ### 法律聲明
 ---
 * 該地圖集最初由日本人[x768](http://x768.com/w/twha.ja)製作。X768在他/她的個人網站上發布了圖集，但沒有提供任何許可證。除了在您所在地區版權法中的合理使用條款（如台灣“著作權法”第二十九條）中規定的情形外，任何使用行為均可能構成對原作者著作權的侵犯。
-* [此版本的地圖集](http://worldmap.lurito.com)經過 [Lurito](https://github.com/Lurito) 對部分內容進行翻譯和中國化的處理，且僅用於學校課堂教學或者科學研究。
+* [此版本的地圖集](http://worldmap.lurito.com)經過 [Lurito](https://github.com/Lurito) 對部分內容進行翻譯和中國化的處理，且僅供學校課堂教學或者科學研究使用。
