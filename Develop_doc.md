@@ -71,25 +71,21 @@ If there're two or more era names at the same time, we need more sub-arraies. In
 
 **regions.js**
 
-A simplified example of `era.js` is as follows:
+A simplified example of `regions.js` is as follows:
 
 ``` javascript
-var era_jp = [
-	[
-		[ 645,"大化"],
-		[ 650,"白雉"],
-		[ 655,null],
-		// Some codes
-		[1338,"[北]暦應"]
-		// Some codes
-	],
-	[
-		[1331,"[南]元弘"],
-		[1334,null]
-		// Some codes
-	]
-]
-var era_cn = [
+var region_list = [
+[null, 1928, 1934,
+[ 1928, 1931,"cn/sov","中國工農紅軍","Chinese Red Army","@","(共産党)","(Communists)","@",2960,625,1],
+[ 1931, 1934,"cn/sov","中華ソヴィエト共和国","Soviet Republic of China","中華蘇維埃共和国","(共産党)","(Communists)","@"],
+["主席","Leader","@"],
+[ 1931, 1934,"cn/mao-young","毛澤東","Mao Ze-dong","@"],
+],
+[null, 1935, 1937,
+[ 1935, 1937,"cn/sov","中華ソヴィエト共和国","Chinese Soviet Republic","中華蘇維埃共和国","(共産党)","(Communists)","@",2920,540,1],
+["主席","Leader","@"],
+[ 1935, 1937,"cn/mao-young","毛澤東","Mao Ze-dong","@"],
+],
 	// Some codes
 ]
 ```
