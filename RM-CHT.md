@@ -2,7 +2,7 @@
 
 Other languages: [English](RM-EN.md)
 
-其他语言：[简体中文](RM-CHS.md)
+其他语言：[中文（中国大陆）](RM-CHS.md)
 
 ### 寫在最前面
 ---
