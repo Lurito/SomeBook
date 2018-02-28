@@ -75,6 +75,7 @@ A simplified example of `regions.js` is as follows:
 
 ``` javascript
 var region_list = [
+	// Some codes
 	[null, 1928, 1934,
 		[ 1928, 1931,"cn/sov","中國工農紅軍","Chinese Red Army","@","(共産党)","(Communists)","@",2960,625,1],
 		[ 1931, 1934,"cn/sov","中華ソヴィエト共和国","Soviet Republic of China","中華蘇維埃共和国","(共産党)","(Communists)","@"],
