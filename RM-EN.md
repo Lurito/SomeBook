@@ -21,7 +21,7 @@
 
 ### Applications
 ---
-* For history or human-geography studying. This atlas shows the changes of countrie's territory and leaders in thousands of years. It's a good tool of history or human-geography studying.
+* For history or human-geography studying. This atlas shows the changes of countries' territories and leaders in thousands of years. It's a good tool of history or human-geography studying.
 * For information technology studying. This atlas is wholly programed with native Javascript. It has a very simple core part in a size of only 20 kiB but can draw a wonderful atlas. It is suitable for Javascipt beginners to study.
 
 ### Other
