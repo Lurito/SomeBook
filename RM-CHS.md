@@ -28,6 +28,7 @@ Other languages: [English](RM-EN.md)
 ---
 * 此地图集的数据从公元前4000年更新至公元2017年。
 * 由于版权原因，不提供除 [Github](https://github.com/Lurito/WorldMap) 外的任何下载渠道。
+* 此地图集项目的主要部分在 [Github Pages](https://pages.github.com/) 上托管，为了提升访问速度，部分数据文件则托管在[腾讯云](https://cloud.tencent.com)中。
 
 
 ### 法律声明
