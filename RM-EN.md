@@ -28,7 +28,7 @@
 ---
 * The data of this atlas is updated from 4000 BC to AD 2017.
 * Due to the reason of copyright, any download method of the atlas is not provided except [Github](https://github.com/Lurito/WorldMap).
-* The main part of the atlas project is hosted on [Github Pages](https://pages.github.com/), and some data file is hosted on [Tencent Cloud](https://cloud.tencent.com) in order to improve access speed.
+* The main part of the atlas project is hosted on [Github Pages](https://pages.github.com/), and some data files are hosted on [Tencent Cloud](https://cloud.tencent.com) in order to improve access speed.
 
 
 ### Legal Declarations
