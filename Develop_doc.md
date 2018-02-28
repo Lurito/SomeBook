@@ -71,6 +71,31 @@ If there're two or more era names at the same time, we need more sub-arraies. In
 
 **regions.js**
 
+A simplified example of `era.js` is as follows:
+
+``` javascript
+var era_jp = [
+	[
+		[ 645,"大化"],
+		[ 650,"白雉"],
+		[ 655,null],
+		// Some codes
+		[1338,"[北]暦應"]
+		// Some codes
+	],
+	[
+		[1331,"[南]元弘"],
+		[1334,null]
+		// Some codes
+	]
+]
+var era_cn = [
+	// Some codes
+]
+```
+
+
+
 (To be supplemented...)
 
 **territory.js**
