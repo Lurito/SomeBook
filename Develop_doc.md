@@ -75,22 +75,21 @@ A simplified example of `regions.js` is as follows:
 
 ``` javascript
 var region_list = [
-[null, 1928, 1934,
-[ 1928, 1931,"cn/sov","中國工農紅軍","Chinese Red Army","@","(共産党)","(Communists)","@",2960,625,1],
-[ 1931, 1934,"cn/sov","中華ソヴィエト共和国","Soviet Republic of China","中華蘇維埃共和国","(共産党)","(Communists)","@"],
-["主席","Leader","@"],
-[ 1931, 1934,"cn/mao-young","毛澤東","Mao Ze-dong","@"],
-],
-[null, 1935, 1937,
-[ 1935, 1937,"cn/sov","中華ソヴィエト共和国","Chinese Soviet Republic","中華蘇維埃共和国","(共産党)","(Communists)","@",2920,540,1],
-["主席","Leader","@"],
-[ 1935, 1937,"cn/mao-young","毛澤東","Mao Ze-dong","@"],
-],
+	[null, 1928, 1934,
+		[ 1928, 1931,"cn/sov","中國工農紅軍","Chinese Red Army","@","(共産党)","(Communists)","@",2960,625,1],
+		[ 1931, 1934,"cn/sov","中華ソヴィエト共和国","Soviet Republic of China","中華蘇維埃共和国","(共産党)","(Communists)","@"],
+		["主席","Leader","@"],
+		[ 1931, 1934,"cn/mao-young","毛澤東","Mao Ze-dong","@"],
+	],
 	// Some codes
 ]
 ```
 
+There're a master array `region_list`.
 
+Within `region_list`, there're several sub-arraies. Each sub-array means a countries. The first item is now deprecated, its value is unified as `null`. The following two items is the beginning and ending year of the country. If the contry did not perish,set the item of ending year as 9999.
+
+Starting from the fourth, each item is an array. Within it, country names and flags should be defined first. As the example, the front two item is the beginning and ending year of the item. The third item defines the nathonal flag or symble (image path relative to `./sym/` and without `.png`). The fourth to sixth items define the country name in Japanese, English and Chinese. `@` and `$` means to be the same with the Japanese part and English part. 
 
 (To be supplemented...)
 
