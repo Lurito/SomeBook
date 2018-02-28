@@ -59,4 +59,12 @@ var era_cn = [
 ]
 ```
 
-There're two arraies `era_jp` and `era_cn` in it, `jp` and `cn` is the language code. 
+There're two arraies `era_jp` and `era_cn` in it, `jp` and `cn` is the language code.
+
+Within them, each sub-array is a series, that means the last era name will be end when a next one starts. And the first numeric field of 2nd-level sub-array is the beginning year of the era name.
+
+For example, AD 645 is the first year of 大化, and AD 650 is the first year of 白雉, so AD 449 is the last year of 大化.
+
+Especially, `null` means there're no era name since this year.
+
+If there're two or more era names at the same time, we need more sub-arraies. In this way, it can shows as like `[北]暦應1年 / [南]元弘8年` when AD 1338.
