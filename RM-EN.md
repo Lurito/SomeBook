@@ -1,8 +1,8 @@
 # Document of the _WORLD HISTORICAL ATLAS_
 
-其他语言：[中文（中国大陆）](RM-CHS.md)
+其他语言：[中文（大陆简体）](RM-CHS.md)
 
-其他語言：[中文（台灣）](RM-CHT.md)
+其他語言：[中文（台灣正體）](RM-CHT.md)
 
 ### Precursory Statement
 ---

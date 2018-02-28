@@ -6,6 +6,7 @@
 
 ## TWHA Docs
 
-* [Read Me\(English Ver.\)](RM-EN.md)
-* [Read Me\(Simplified Chinese Ver.\)](RM-CHS.md)
-* [Read Me\(Traditional Chinese Ver.\)](RM-CHT.md)
+* [Document of the WORLD HISTORICAL ATLAS](RM-EN.md)
+* [《世界历史地图集》说明文档](RM-CHS.md)
+* [《世界歷史地圖集》說明文件](RM-CHT.md)
+
