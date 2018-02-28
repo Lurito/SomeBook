@@ -68,3 +68,11 @@ For example, AD 645 is the first year of 大化, and AD 650 is the first year of
 Especially, `null` means there're no era name since this year.
 
 If there're two or more era names at the same time, we need more sub-arraies. In this way, it can shows as like `[北]暦應1年 / [南]元弘8年` when AD 1338.
+
+**regions.js**
+
+(To be supplemented...)
+
+**territory.js**
+
+(To be supplemented...)
