@@ -28,7 +28,7 @@ Other languages: [English](RM-EN.md)
 ---
 * 此地圖集的數據從西元前4000年更新至民國106年（西元2017年）。
 * 由於著作權原因，不提供除 [Github](https://github.com/Lurito/WorldMap) 外的任何下載管道。
-* 此地圖集計畫的主要部份在 [Github Pages](https://pages.github.com/) 上代管，為了提升存取速度，部份資料文件則代管在[騰訊雲](https://cloud.tencent.com)中。
+* 此地圖集計畫的主要部份在 [Github Pages](https://pages.github.com/) 上代管，為了提升存取速度，部份資料文件代管在[騰訊雲](https://cloud.tencent.com)上，而文件則託管在 [Gitbook](https://www.gitbook.com/) 上。
 
 ### 法律聲明
 ---
